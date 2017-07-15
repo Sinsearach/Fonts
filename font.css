@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'ExocetBlizzardOT-Medium';
+  src: url('ExocetBlizzardOT-Medium.woff') format('woff'),
+       url('ExocetBlizzardOT-Medium.ttf') format('truetype'),
+       url('ExocetBlizzardOT-Medium.svg#ExocetBlizzardOT-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'exocet-blizzard-medium';
+  src: url('exocet-blizzard-medium.eot');
+  src: url('exocet-blizzard-medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
